@@ -1,12 +1,12 @@
 # 손주머니
-> 사랑하는 손주와 일산을 공유하는 따뜻한 금융 소통 '손주머니'
-<img width="479" alt="image" src="" />
+> 사랑하는 손주와 일상을 공유하는 따뜻한 금융 서비스 '손주머니'
+![Image](https://github.com/user-attachments/assets/79852c50-3c2e-4748-a54c-60b858ac2fc5)
 <br>
 
 ## 📍프로젝트 소개
 
 
-### 주요 기능
+### 🛠 주요 기능
 
 
 <br>
