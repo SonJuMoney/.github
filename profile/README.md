@@ -1,5 +1,5 @@
 # 손주머니
-> 사랑하는 손주와 일상을 공유하는 따뜻한 금융 서비스 '손주머니'
+### 사랑하는 손주와 일상을 공유하는 따뜻한 금융 서비스 '손주머니'
 ![Image](https://github.com/user-attachments/assets/79852c50-3c2e-4748-a54c-60b858ac2fc5)
 <br>
 
