@@ -12,6 +12,18 @@
  <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/df0ec284-8472-4bb6-a434-847ed473084f" />
  <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/46046070-b584-46e3-b9fd-61dee0d6d53b" />
 <br>
+#### 2. 화상통화
+<img width="1920" alt="Image" src="https://github.com/user-attachments/assets/8284fe2f-5985-41ed-90ff-4204600a9f7f" />
+<br>
+#### 3. 메세지 적금
+<img width="1920" alt="Image" src="https://github.com/user-attachments/assets/ff01e683-ce68-4750-b327-02dfeae0d296" />
+<br>
+#### 4. 가족 소식 피드
+<img width="1920" alt="Image" src="https://github.com/user-attachments/assets/e6d10504-a754-4522-98df-e6f7c3c74755" />
+<br>
+#### 5. 일정 캘린더
+<img width="1920" alt="Image" src="https://github.com/user-attachments/assets/ccea6231-6ab0-4242-bd51-9a6057e33211" />
+<br>
 
 
 ## ⚙️ 서비스 아키텍쳐
