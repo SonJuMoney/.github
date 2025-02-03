@@ -1,6 +1,6 @@
 # 손주머니
 > 사랑하는 손주와 일산을 공유하는 따뜻한 금융 소통 '손주머니'
-<img width="479" alt="image" src="https://github.com/user-attachments/assets/14282d51-6660-434b-8336-371f0fd9717d" />
+<img width="479" alt="image" src="" />
 <br>
 
 ## 📍프로젝트 소개
