@@ -8,7 +8,7 @@
 ## 🎥 서비스 시연 영상
 
 ## 🛠 주요 기능
-#### 용돈 보내기
+#### 1. 용돈 보내기
  <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/df0ec284-8472-4bb6-a434-847ed473084f" />
  <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/46046070-b584-46e3-b9fd-61dee0d6d53b" />
 <br>
