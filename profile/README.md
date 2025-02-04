@@ -6,6 +6,7 @@
 ## 📍 프로젝트 소개
 
 ## 🎥 서비스 시연 영상
+https://www.youtube.com/watch?v=9PDdWzsPmnw
 
 ## 🛠 주요 기능
 ### 1. 용돈 보내기
@@ -15,7 +16,7 @@
  <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/46046070-b584-46e3-b9fd-61dee0d6d53b" />
 
 ### 2. 화상통화
-##### ✅ 가족 간 화상 통화를 통해 대활를 나눌 수 있습니다.
+##### ✅ 가족 간 화상 통화를 통해 대화를 나눌 수 있습니다.
 ##### ✅ AI 추천 주제로 더욱 풍성한 대화와 깊이 있는 교감이 가능합니다.
 <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/8284fe2f-5985-41ed-90ff-4204600a9f7f" />
 
@@ -31,7 +32,7 @@
 
 ### 5. 일정 캘린더
 ##### ✅ 가족 기념일 및 행사 일정을 등록하고 서로 공유합니다.
-##### ✅ 일정에 맞추어 참여 가족원에게 알림이 전송돼 잊지 않고 기억할 수 있습니다.
+##### ✅ 일정에 맞추어 참여 가족원에게 알림이 전송되어 잊지 않고 기억할 수 있습니다.
 <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/ccea6231-6ab0-4242-bd51-9a6057e33211" />
 
 
