@@ -93,11 +93,11 @@ https://www.youtube.com/watch?v=9PDdWzsPmnw
    <tr>
     	<td align="center">팀장, Frontend</td>
     	<td align="center">Frontend</td>
-    	<td align="center">Frontend</td>
     	<td align="center">Backend</td>
     	<td align="center">Backend</td>
     	<td align="center">Backend</td>
-    <td align="center">Backend</td>
+    	<td align="center">Backend</td>
+    <td align="center">Frontend</td>
   </tr>
   </tbody>
 </table>
