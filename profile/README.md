@@ -27,29 +27,45 @@
 
 
 ## ⚙️ 서비스 아키텍쳐
-<img width="406" alt="image" src="" />
+<img width="1920" alt="Image" src="https://github.com/user-attachments/assets/f573e3a4-50da-49fb-ba23-a869898cfc6a" />
 
 
 ## 🛠️ 기술 스택
-<div align=center>
+### 프론트엔드
+<div align=start>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+
+### 백엔드
+<div align=start>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white">
      <img src="https://img.shields.io/badge/AWS%20CloudFront-EC7211?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge">
+</div>
+
+
+### 공통
+<div align=start>
     <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
     <img src="https://img.shields.io/badge/GetStream.io-1DA1F2?style=for-the-badge">
      <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white">
+ </div>
+ 
+### 개발 및 협업 도구
+<div align=start>  
     <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 <br>
+
+
 
 ## 👩🏻‍💻 개발자 소개 
 <table>
