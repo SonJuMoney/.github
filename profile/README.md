@@ -90,5 +90,14 @@ https://www.youtube.com/watch?v=9PDdWzsPmnw
 <td align="center"><a href="https://github.com/ImHyungsuk"><img src="https://avatars.githubusercontent.com/u/105403103?v=4" width="100px;" alt=""/><br /><sub><b> 임형석 </b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/j0j00h"><img src="https://avatars.githubusercontent.com/u/172246696?v=4" width="100px;" alt=""/><br /><sub><b> 조서현 </b></sub></a><br /></td>
     </tr>
+   <tr>
+    	<td align="center">팀장, Frontend</td>
+    	<td align="center">Frontend</td>
+    	<td align="center">Frontend</td>
+    	<td align="center">Backend</td>
+    	<td align="center">Backend</td>
+    	<td align="center">Backend</td>
+    <td align="center">Backend</td>
+  </tr>
   </tbody>
 </table>
