@@ -6,7 +6,7 @@
 <br>
 
 ## 🎥 서비스 시연 영상
-https://www.youtube.com/watch?v=9PDdWzsPmnw
+https://youtu.be/lsebn5KtsjA
 
 ## 🛠 주요 기능
 ### 1. 용돈 보내기
